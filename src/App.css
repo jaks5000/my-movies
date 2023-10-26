@@ -1,0 +1,12 @@
+.container {
+  padding: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.header {
+  width: 100%;
+  background-color: gainsboro;
+  padding: 25px;
+}

@@ -1,0 +1,18 @@
+body {
+  background: linear-gradient(to left , #ff9999, #030392);
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.container {
+  background: linear-gradient(to left, #fad681, #7e4002);
+
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
+
+.card {
+  margin-bottom: 20px;
+}
